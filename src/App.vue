@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1>day04</h1>
     <MySchool :name='msg' :sex='xing' :age='number'/>
     <hr>
     <MySchool name='李四' sex='女' :age='30'/>
